@@ -19,21 +19,57 @@ body{
 .top_section{
 
     display: flex;
-    width: 80%;
     justify-content: center;
+    width: 90%;
     padding: 0 2rem 2rem 2rem;
 }
 
 .header_logo{
-    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bolder;
 }
 
 
+
 .top_links{
-    margin-left: 24rem;
+    margin-left: 25rem;
 }
 
 .top_links > a{
 
-    margin-left: 20px;
+    margin-left: 15px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.body_Section{
+    display: flex;
+    width: 90%;
+    padding-top: 3rem;
+
+}
+
+.body_section_text{
+    width: 50%;
+    margin-left: 60px;
+}
+
+
+.body_section_text > h1{
+    width: 60%;
+}
+
+.body_section_text > p{
+
+    width: 80%;
+}
+
+.image_holder{
+    width: 600px;
+    height: 250px;
+    border: 2px solid yellow;
+
 }
