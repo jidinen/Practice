@@ -124,3 +124,40 @@ body{
 .placeholder_3 + .placeholder_4{
     margin-left: 20px;
 }
+
+.quote_section{
+
+    padding: 10rem;
+}
+
+.author{
+    text-align: right;
+}
+
+
+.end_part{
+    padding: 5rem;
+    background-color: white;
+    color: white;
+
+}
+
+
+.background{
+    background-color: navy;
+    display: flex;
+}
+
+
+.text_endpart{
+    padding: 2rem;
+}
+
+.end_button{
+
+align-self: center;
+position: absolute;
+right: 400px;
+
+
+}
